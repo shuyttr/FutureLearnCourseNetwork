@@ -9,7 +9,8 @@
 
 ## Document Structure
 My documents contained the following attributes for each course:
-```{
+```
+{
 	"college",
 	"title",
 	"description",
