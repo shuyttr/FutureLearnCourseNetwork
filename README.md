@@ -4,7 +4,7 @@
 
 2. [Cheerio](https://github.com/cheeriojs/cheerio) is used here to implement jQuery methods in order to 'walk through' the different element of the rendered HTML document. 
 
-3. [fs](https://nodejs.org/api/fs.html) library piped the contents to [future_learn.json](./future_learn.json)
+3. [fs](https://nodejs.org/api/fs.html) library piped the contents to [future_learn_courses.json](./future_learn_courses.json)
   
 
 ## Document Structure
