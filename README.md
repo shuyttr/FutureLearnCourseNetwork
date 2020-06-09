@@ -5,17 +5,17 @@
 3. [fs](https://nodejs.org/api/fs.html) library piped the contents to [future_learn_courses.json](./future_learn_courses.json)
   
 
-## Output Structure
+## Course Structure
 
-My documents contained the following attributes for each course:
+Example course:
 ```
 {
-	"college",
-	"title",
-	"description",
-	"weeks",
-	"hrs/week"
-}
+	"college": "Raspberry Pi Foundation & National Centre for Computing Education",
+	"title": "Introduction to Cybersecurity for Teachers",
+	"description": "Explore key concepts of cybersecurity to teach 14-16 year-old students with this online cybersecurity course supported by Google.",
+	"weeks": "3 weeks",
+	"hours": "2 hrs/week"
+	}
 ```
 
 ## Future Plans
