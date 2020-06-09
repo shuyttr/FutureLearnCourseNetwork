@@ -6,6 +6,7 @@
   
 
 ## Output Structure
+
 My documents contained the following attributes for each course:
 ```
 {
