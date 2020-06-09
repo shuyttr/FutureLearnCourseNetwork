@@ -9,13 +9,11 @@
 
 Example course:
 ```
-{
-	"college": "Raspberry Pi Foundation & National Centre for Computing Education",
-	"title": "Introduction to Cybersecurity for Teachers",
-	"description": "Explore key concepts of cybersecurity to teach 14-16 year-old students with this online cybersecurity course supported by Google.",
-	"weeks": "3 weeks",
-	"hours": "2 hrs/week"
-	}
+"college": "Raspberry Pi Foundation & National Centre for Computing Education",
+"title": "Introduction to Cybersecurity for Teachers",
+"description": "Explore key concepts of cybersecurity to teach 14-16 year-old students with this online cybersecurity course supported by Google.",
+"weeks": "3 weeks",
+"hours": "2 hrs/week"
 ```
 
 ## Future Plans
