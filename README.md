@@ -1,6 +1,6 @@
 ## Requirements
 
-1. Axios = https://github.com/axios/axios
+1. [Axios](https://github.com/axios/axios)
   This library is a "Promise based HTTP client for the browser and node.js" which I used to receive a web page via a JS program
 
 2. Cheerio = https://github.com/cheeriojs/cheerio
