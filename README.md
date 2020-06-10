@@ -1,15 +1,18 @@
 ## Requirements
-[Download and Install NodeJS](https://nodejs.org/en/download/). 
+1. [Download and Install NodeJS](https://nodejs.org/en/download/). 
 ```npm``` package manager is automatically downloaded
-1. [Axios](https://github.com/axios/axios) is a "Promise based HTTP client for the browser and node.js." 
+
+2. [Axios](https://github.com/axios/axios) is a "Promise based HTTP client for the browser and node.js." 
 ```
 $ npm install axios
 ```
-2. [Cheerio](https://github.com/cheeriojs/cheerio) is used here to implement jQuery methods in order to 'walk through' the different element of the rendered HTML document. 
+
+3. [Cheerio](https://github.com/cheeriojs/cheerio) is used here to implement [jQuery](https://jquery.com/) methods in order to 'walk through' different elements of the rendered HTML document. 
 ```
 $ npm install cheerio
 ```
-3. [fs](https://nodejs.org/api/fs.html) library piped the contents to [future_learn_courses.json](./future_learn_courses.json)
+
+4. [fs](https://nodejs.org/api/fs.html) library piped the contents to [future_learn_courses.json](./future_learn_courses.json)
 
 Check out [scraper.js](./scraper.js) for how the above libraries were initially used
 
