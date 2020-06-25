@@ -26,8 +26,3 @@ Example course:
 "weeks": "3 weeks",
 "hours": "2 hrs/week"
 ```
-
-## Motivation
-This web-scraper was initially part an interview process. My intentions going forward would be to import these courses into a [Neo4j](https://neo4j.com/) database. From here, I'd like to create a front-end application where users would be able to share what courses they have taken, match that to a _web_, and track different relationships between webs. A web is simply a category of courses.
-
-For example, Cybersecurity is a growing field and knowledge of other CS concentrations is critical for success. This [article](https://www.zdnet.com/article/ai-is-changing-everything-about-cybersecurity-for-better-and-for-worse-heres-what-you-need-to-know/) provides an example of the cross-section between cybersecurity and AI. Overall, the final product would be to track which areas of study are most related based on users courses, so we can provide users with how the best route of action to complement their primary courses with other essential courses.
